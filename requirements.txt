@@ -3,3 +3,5 @@ matplotlib
 tkinter
 pillow
 pyreadr
+scipy
+kagglehub

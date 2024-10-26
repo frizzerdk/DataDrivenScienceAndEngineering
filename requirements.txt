@@ -1,7 +1,7 @@
 numpy
 matplotlib
-tkinter
 pillow
 pyreadr
 scipy
 kagglehub
+tensorly

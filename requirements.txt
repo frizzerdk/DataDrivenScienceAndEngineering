@@ -5,3 +5,4 @@ pyreadr
 scipy
 kagglehub
 tensorly
+diskcache
